@@ -5,12 +5,12 @@ This is  a public repo for the Group 2 project Challenge, of the UW Fintech Boot
 
 
 ## Technologies and Libraries
-Visual studio code - Source code editor that supports development operations like debugging, version control or task running
-pandas - An open source library that provides high performance data and provides data analysis tools. 
-VADER - A sentiment analysis tool speficially attuned to sentiments expressed in social media networks. The library allows an output of results labelled as either positive, negative or neutral.
-SQL - A Standardized programming language used to manage relational databases and perform various operations of data in them.
-NLTK - Natural Language Processing tool that contains programs and libraries for statistical language processing.
-snscrape - Python library that scrapes tweets through Twitter API without request limits.
+1. Visual studio code - Source code editor that supports development operations like debugging, version control or task running
+2. pandas - An open source library that provides high performance data and provides data analysis tools. 
+3. VADER - A sentiment analysis tool speficially attuned to sentiments expressed in social media networks. The library allows an output of results labelled as either positive, negative or neutral.
+4. SQL - A Standardized programming language used to manage relational databases and perform various operations of data in them.
+5. NLTK - Natural Language Processing tool that contains programs and libraries for statistical language processing.
+6. snscrape - Python library that scrapes tweets through Twitter API without request limits.
 
 
 
@@ -77,8 +77,8 @@ The sentiment analysis of tweets and reddit news is carried out using VADER. Eac
 
 Joe Verhei, 
 Jonathan Kang, 
-Mandy McGil
-Nathan Predko  
+Mandy McGil,
+Nathan Predko, 
 Virginia Murage
 
 ## License
