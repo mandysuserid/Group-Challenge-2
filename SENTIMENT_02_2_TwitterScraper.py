@@ -1,4 +1,3 @@
-# https://tradewithpython.com/sentiment-analysis-for-stocks-from-twitter
 import datetime as dt
 import sql
 import snscrape.modules.twitter as sntwitter
