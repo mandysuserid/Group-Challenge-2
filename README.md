@@ -71,6 +71,7 @@ The stock market data was scraped from Google api while the social media sentime
 * Sentiment Analysis
 
 The sentiment analysis of tweets and reddit news is carried out using VADER. Each sentiment is given a sentiment score which determines if the tweet is positive, negative, neutral or compound.
+![image](https://user-images.githubusercontent.com/105859007/190541091-496fd842-681f-4145-8fa1-e065f870cbf4.png)
 
      
 ## Contributors
